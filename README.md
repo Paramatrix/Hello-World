@@ -6,3 +6,4 @@ I've been using SourceSafe for years and need to move on.
 
 These are the changes from the Training1 branch.
 
+Oops, forgot one change.
